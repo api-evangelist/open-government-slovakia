@@ -41,7 +41,6 @@ apis:
   - name: Open Government, Slovakia
     description: "Slovakia Government Open Data"
     humanURL: https://data.gov.sk/en/
-    baseURL: https://data.gov.sk/en/
     tags:
       - Government
     properties:
